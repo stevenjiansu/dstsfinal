@@ -29,6 +29,7 @@ You can install the required libraries using the following command:
 
 ```sh
 pip install pandas numpy matplotlib seaborn pathlib2
+```
 
 ### 2. Download and Extract Data
 Download the ZIP files containing the dataset and place them in a folder named dataset. The notebook includes code to extract CSV files from these ZIP files.
